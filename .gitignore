@@ -6,3 +6,11 @@ export_presets.cfg
 
 # Mono-specific ignores
 .mono/
+
+.godot/editor/favorites
+
+.godot/editor/favorites.Node
+
+builds/
+
+promo/
